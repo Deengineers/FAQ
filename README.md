@@ -42,7 +42,7 @@ This creates a coherent, concise, and dense paragraph for each project. Keep it 
 
 > 3-Tier Python App Hosted on Azure App Service Deployed w/ Azure DevOps Pipelines
 <br>
-<br> _**Details go here**_
+
 
 --- 
 
