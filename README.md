@@ -93,7 +93,22 @@ Avoid big words and keep the reading level low and it makes for an easier read f
 Where's the example? Point is you wouldn't have space for an example. The example is required, otherwise it's useless. Plus you can explain these things in an interview / work experience section.
 
 </details>
-
+<details>
+<summary>Where can I find some other tips?</summary>
+Check out this reddit thread - https://webcache.googleusercontent.com/search?q=cache:vUt_3xmP9AAJ:https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes/&cd=2&hl=en&ct=clnk&gl=uk
+</details>
+<details>
+<summary>What CV layout should I use?</summary>
+Deenengineers recommends using a CV building website such as https://flowcv.com/ for a clean, simple and easy to read layout.
+</details>
+<details>
+<summary>How many pages should my CV be?</summary>
+Ideally **one** but no longer than **two**.
+</details>
+<details>
+<summary>Where can I see some example CVs?</summary>
+Check out this reddit thread - https://www.reddit.com/r/cscareerquestions/comments/e8narz/official_excellent_and_exemplary_resume_sharing/
+</details>
 
 ## Interview 
 
