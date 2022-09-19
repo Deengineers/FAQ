@@ -48,7 +48,7 @@ This creates a coherent, concise, and dense paragraph for each project. Keep it 
 
 ### **How to write points for your work experience section:**
 
-- **Specific** - Mention a very particular situation/case/ticket/project you worked on: "Configured multifactor authentication for 10,000+ employees"
+- **Specific** - Mention a very particular situation/case/ticket/project you worked on: "Configured Multi-Factor Authentication for 10,000+ employees"
 - **Impact** (The result/outcome. This can be combined inside the specific point) 
 - **Past tense** (All experience points should be written as (if) you have DONE them. Change "Creating, Producing..." -> "Created, Produced..."
 - **Verbs** at the beginning of each point (see above^)
