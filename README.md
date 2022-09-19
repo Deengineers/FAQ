@@ -27,16 +27,16 @@ Answer: We are ...
 
 ## CV
 
-<details open>
+<details>
 <summary>Can you give me some CV tips?</summary>
 
-### **How to write projects on your CVs:**
+### **How to write projects on your CV:**
 
 - **Summary** (summarise in a line or two what was achieved)
-- **Impact** (Was the result scalable, highly available etc.)
-- **Technologies** (Mention specific cloud or other technologies used - buzzwords)
+- **Impact** (Was the result scalable? highly available? etc)
+- **Technologies** (Mention specific cloud or other technologies used)
 
-This creates a coherent, concise, and dense paragraph for each project. Keep it to no more than 4 lines if you can help it.
+This creates a coherent, concise, and dense paragraph for each project. Keep it to no more than 4 lines.
 
 **Example:**
 
@@ -48,7 +48,7 @@ This creates a coherent, concise, and dense paragraph for each project. Keep it 
 
 ### **How to write points for your work experience section:**
 
-- **Specific** - Mention a very particular situation/case/ticket/project you worked on: "Configured Multifactor Authentication for 10000+ employees"
+- **Specific** - Mention a very particular situation/case/ticket/project you worked on: "Configured multifactor authentication for 10,000+ employees"
 - **Impact** (The result/outcome. This can be combined inside the specific point) 
 - **Past tense** (All experience points should be written as (if) you have DONE them. Change "Creating, Producing..." -> "Created, Produced..."
 - **Verbs** at the beginning of each point (see above^)
@@ -73,7 +73,7 @@ Some examples:
 
 That is all you need. Recruiters and hiring managers are lazy and must go through a bunch of CVs. Get straight to the point and mention everything without a wasted word or letter. No one needs a heartbreaking story. Also, you will save space for points in later stages of your CV.
 
-Rule of 3 is a great writing technique you may remember from English classes. Only include buzzwords from jobs you're looking to apply to. 
+Rule of 3 is a great writing technique you may remember from english classes. Only include buzzwords from jobs you're looking to apply to. 
 
 So, for example, if a person want to go into an Azure Engineer role, then they should highlight skills that they're good at that fit that role. Additionally, recruiters search for CVs and profiles based on keywords. In the final section of a CV, mentioned at least 3 technologies for the job roles that are being looked at. If, for exmaple, the role mentioned Terraform, then that should also be mentioned in the interest in build skills in section on the CV.
 
