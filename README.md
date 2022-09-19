@@ -73,7 +73,7 @@ Some examples:
 
 That is all you need. Recruiters and hiring managers are lazy and must go through a bunch of CVs. Get straight to the point and mention everything without a wasted word or letter. No one needs a heartbreaking story. Also, you will save space for points in later stages of your CV.
 
-Rule of 3 is a great writing technique you may remember from english classes. Only include buzzwords from jobs you're looking to apply to. 
+Rule of 3 is a great writing technique you may remember from English classes. Only include buzzwords from jobs you're looking to apply to. 
 
 So, for example, if a person want to go into an Azure Engineer role, then they should highlight skills that they're good at that fit that role. Additionally, recruiters search for CVs and profiles based on keywords. In the final section of a CV, mentioned at least 3 technologies for the job roles that are being looked at. If, for exmaple, the role mentioned Terraform, then that should also be mentioned in the interest in build skills in section on the CV.
 
