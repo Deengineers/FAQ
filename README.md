@@ -103,7 +103,7 @@ Check out this reddit thread - https://webcache.googleusercontent.com/search?q=c
 </details>
 <details>
 <summary>What CV layout should I use?</summary>
-Deenengineers recommends using a CV building website such as https://flowcv.com/ for a clean, simple and easy to read layout.
+Deenengineers recommends using a CV building website such as https://flowcv.com/ for a clean, simple and easy to read layout. If you prefer to work without creating an account, [ResumeInvited](https://resumeinvited.com/) offers live preview and PDF or editable Word export.
 </details>
 <details>
 <summary>How many pages should my CV be?</summary>
